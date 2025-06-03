@@ -1,0 +1,3 @@
+﻿  Resolver.cpp
+C:\Users\mati2\Desktop\Kaaba Clean\kaaba\Features\Rage\Resolver.cpp(49,11): error C2065: "image": niezadeklarowany identyfikator
+C:\Users\mati2\Desktop\Kaaba Clean\kaaba\Features\Rage\Resolver.cpp(52,4): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „resolverData”
